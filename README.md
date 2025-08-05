@@ -1,5 +1,5 @@
 <picture>
-    <img alt="ChunkLoader Logo" src="./doc/chunk_loader_logo_128.png">
+    <img alt="ChunkLoader Logo" src="./docs/chunk_loader_logo_128.png">
 </picture>
 
 # ChunkLoader
