@@ -1,0 +1,16 @@
+{
+  "name": "chunkloader",
+  "version": "",
+  "author": "atom-p-dev",
+
+  "dependencies": {
+    
+  },
+
+  "files": [
+    {
+      "source_url": "https://raw.githubusercontent.com/atom-p-dev/your-chunkloader-repo/main/src/chunkloader.lua",
+      "target_path": "/programs/ChunkLoader/chunkloader.lua"
+    }
+  ]
+}
